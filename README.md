@@ -1,6 +1,12 @@
 # Hyundai Ioniq 5 Cargo Cover Wall Mount Bracket  
 This project provides a wall mount bracket designed to hold the Hyundai Ioniq 5 cargo cover securely when it is not in use. The bracket ensures that the cargo cover is kept safe and out of the way, preventing damage or unnecessary wear.
 
+![image](https://github.com/user-attachments/assets/d6336fcc-3925-4965-9216-8de463089417)
+
+
+https://github.com/user-attachments/assets/b9a74d0e-7789-40d3-95f2-cb34f4c09c51
+
+
 ## Materials
   * __Recommended Material for 3D Printing:__ ABS or ASA plastic for durability and weather resistance.
   * __Mounting Hardware:__ Uses #6 x 1-5/8 in. #2 Phillips Bugle Head Drywall screws for mounting to the wall.
