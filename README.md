@@ -25,6 +25,9 @@ https://github.com/user-attachments/assets/b9a74d0e-7789-40d3-95f2-cb34f4c09c51
   * Use #6 x 1-5/8 in. #2 Phillips Bugle Head Drywall screws to mount the bracket to the wall. Ensure that the screws are securely fastened and flush with the surface of the bracket to prevent any interference with the cargo cover.
 3. __Storing the Cargo Cover:__ Once the bracket is securely mounted, slide the Hyundai Ioniq 5 cargo cover into the bracket to keep it stored when not in use.
 
+## github workflow
+This was adapted from work done by runewake2 at https://github.com/runewake2/scad-examples/tree/main
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
