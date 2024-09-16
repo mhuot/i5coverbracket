@@ -1,0 +1,15 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "bigh": "2",
+            "bigr": "15",
+            "bottomh": "12",
+            "bottomr": "7",
+            "crossr": "2",
+            "squarew": "6",
+            "toph": "40",
+            "topr": "10"
+        }
+    },
+    "fileFormatVersion": "1"
+}
