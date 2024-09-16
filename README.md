@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/b9a74d0e-7789-40d3-95f2-cb34f4c09c51
 
 ## Installation Instructions
 
-1. __Printing the Bracket:__ Print the bracket using ABS or ASA material to ensure durability. Ensure that your 3D printer is set up for the selected material.
+1. __Printing the Bracket:__ Print the bracket using ABS or ASA material to ensure durability. Ensure that your 3D printer is set up for the selected material. I would recommend a brim to limit warping.
 
 2. __Mounting the Bracket:__
   * Find a suitable location on the wall where you can securely mount the cargo cover.
